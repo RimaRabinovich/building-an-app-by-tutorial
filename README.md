@@ -5,7 +5,7 @@ A web application built with Flask that uses Firebase Authentication and Google 
 tutorial link: https://cloud.google.com/appengine/docs/standard/python3/building-app <br />
 working app demo: https://hello-world-app-452810.ew.r.appspot.com/
 
-![Screenshot 2025-03-06 at 14 02 25](https://github.com/user-attachments/assets/f9865d6b-4d08-41e7-8ecd-a8edfa34ec36)
+<img width="653" alt="Screenshot 2025-03-06 at 15 11 17" src="https://github.com/user-attachments/assets/b24065bc-6971-4e01-bd01-e7910f885859" />
 
 ## Used
 
